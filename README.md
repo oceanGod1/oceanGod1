@@ -18,14 +18,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ![oceanGod1's GitHub stats](https://github-readme-stats.vercel.app/api?username=oceanGod1&show_icons=true&theme=radical)
 
-## 🗂️ Highlighted Projects
-
-### [Project 1 Name](Link to Project)
-Description of Project 1
-
-### [Project 2 Name](Link to Project)
-Description of Project 2
-
 ## 📫 Connect with Me
 
 - [Twitter](https://twitter.com/oceanGod1)
